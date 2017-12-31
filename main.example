@@ -6,3 +6,6 @@ Oh no,  have realized that I made a mistake and need to add a bugfix. Now this i
 Oh no, my bugfix was bad. But this is the dev branch, so attempt #2: v 1.1.2
 
 Okay, now it is time for v 1.2 beta!
+
+# I added this AFTER adding to master code:
+New vulnerability on the Internet! I had to add this hotfix directly to stable version, without testing in dev! Also, dev version has some unstable functions.
