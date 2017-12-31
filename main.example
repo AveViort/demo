@@ -5,11 +5,7 @@ Oh no,  have realized that I made a mistake and need to add a bugfix. Now this i
 
 Oh no, my bugfix was bad. But this is the dev branch, so attempt #2: v 1.1.2
 
-Okay, now it is time for v 1.2 beta!
-
 New vulnerability on the Internet! I had to add this hotfix directly to stable version, without testing in dev! Also, dev version has some unstable functions.
-
-So this is v 1.2.1 beta
 
 Now I need an additional library. I will upload it to dv branch and call it library-1.example. Version is now 1.2.5to demonstrate changes. Let's discuss later how to mark versions.
 
